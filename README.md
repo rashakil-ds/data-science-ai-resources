@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <h1>Top Data Science and AI Book Collection</h1>
+  <h1>Top Data Science and AI Resources</h1>
   <p>Welcome to the <strong>Top Data Science and AI Book Collection</strong> repository! This repository contains some of the best books and cheatsheets collected from the internet, covering a wide range of topics related to data science and artificial intelligence.</p> <p>For free resources, check out our YouTube channel: <a href="https://www.youtube.com/StudyMart" target="_blank">Study Mart</a>.</p>
 
   <h2>Books Available for Relavent Fields</h2>
